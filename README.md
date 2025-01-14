@@ -1,4 +1,4 @@
-# PROJECTS
+# PROFILE
 # [Muhammad Harshad]'s Portfolio
 Welcome to my professional portfolio! Here, I showcase my skills in **finance**, **data analysis**, and **data science** through various projects.
 
