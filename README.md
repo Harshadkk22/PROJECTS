@@ -18,7 +18,7 @@ Below, you will find a collection of my **Key skills**, **Notable projects**, an
 I am a **data-driven professional** with a strong foundation in **finance**, **predictive modeling**, and **data visualization**. My approach combines statistical analysis, machine learning, and business acumen to transform complex data into valuable insights, helping organizations make informed decisions.
 
 ### Key Highlights:
-- Over **X years** of experience working with financial data and models.
+- Over **4+ years** of experience working with financial data and models.
 - Expertise in **data analysis**, predictive modeling, and developing data-driven solutions.
 - Proven track record of delivering high-impact projects that improve decision-making and business performance.
 
